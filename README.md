@@ -1,4 +1,4 @@
-Group project from the mobile development class, 2019.1 (UFF)
+Group project for the mobile development class, 2019.1 (UFF)
 
 Project done in Corona SDK with other 3 classmates.
 
