@@ -1,6 +1,6 @@
 Group project from the mobile development class, 2019.1 (UFF)
 
-Project done in Corona SDK with another 3 classmates.
+Project done in Corona SDK with other 3 classmates.
 
 # Functionalities
 1. One animation
