@@ -6,7 +6,7 @@ Project done in Corona SDK with another 3 classmates.
 2. Drag and drop
 3. GPS  
 4. Menu and windows
-5. accelerometer 
+5. Accelerometer 
 6. Insert video
 7. Camera
 8. Push notification
