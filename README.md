@@ -1,8 +1,8 @@
 Group project for the mobile development class, 2019.1 (UFF)
 
-Project done in Corona SDK with other 3 classmates.
+Project done in Lua using Corona SDK framework with other 3 classmates.
 
-# Functionalities
+# Features
 1. One animation
 2. Drag and drop
 3. GPS  
