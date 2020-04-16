@@ -1,14 +1,14 @@
-# show-off
-Projeto da disciplina de laboratório de dispositivos móveis, 2019.1 (UFF)
+Group project from the mobile development class, 2019.1 (UFF)
+Project done in Corona SDK with another 3 classmates.
 
-## Funcionalidades
-1. Animação automática
+# Functionalities
+1. One animation
 2. Drag and drop
 3. GPS  
-4. Menu e janelas  
-5. Sensor de movimento (Acelerômetro)  
-6. Inserir vídeo  
-7. Câmera  
-8. Enviar notificação  
+4. Menu and windows
+5. accelerometer 
+6. Insert video
+7. Camera
+8. Push notification
 9. Slide panel  
-10. Botões como checkbox, toggle switch, combo box
+10. Buttons
